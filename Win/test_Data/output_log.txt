@@ -1,0 +1,118 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\ASU\Thesis\Game\2D\Bricks\Bricks\Win\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.807088 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.672649 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 569.
+Total: 0.145628 ms (FindLiveObjects: 0.018650 ms CreateObjectMapping: 0.010730 ms MarkObjects: 0.108327 ms  DeleteObjects: 0.007409 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+(-0.4, -7.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 0.240670 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 0.165812 ms (FindLiveObjects: 0.021972 ms CreateObjectMapping: 0.010219 ms MarkObjects: 0.128766 ms  DeleteObjects: 0.004854 ms)
+
+(0.2, -7.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.247313 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 760.
+Total: 0.186762 ms (FindLiveObjects: 0.025293 ms CreateObjectMapping: 0.015840 ms MarkObjects: 0.140518 ms  DeleteObjects: 0.004854 ms)
+
+(0.1, -7.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.246035 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.207967 ms (FindLiveObjects: 0.015073 ms CreateObjectMapping: 0.009964 ms MarkObjects: 0.123401 ms  DeleteObjects: 0.059273 ms)
+
+E:/ASU/Thesis/Game/2D/Bricks/Bricks/Win/test_Data/Resources/count
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.223808 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.148694 ms (FindLiveObjects: 0.015584 ms CreateObjectMapping: 0.007409 ms MarkObjects: 0.122123 ms  DeleteObjects: 0.003321 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.211289 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 569.
+Total: 0.176542 ms (FindLiveObjects: 0.033213 ms CreateObjectMapping: 0.012774 ms MarkObjects: 0.122890 ms  DeleteObjects: 0.007409 ms)
+
+(1.1, -7.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241181 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 0.162235 ms (FindLiveObjects: 0.019161 ms CreateObjectMapping: 0.010730 ms MarkObjects: 0.127233 ms  DeleteObjects: 0.004598 ms)
+
+(0.3, -7.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241181 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 760.
+Total: 0.198770 ms (FindLiveObjects: 0.036790 ms CreateObjectMapping: 0.016351 ms MarkObjects: 0.140007 ms  DeleteObjects: 0.005109 ms)
+
+(0.6, -7.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.939942 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.691607 ms (FindLiveObjects: 0.036279 ms CreateObjectMapping: 0.046754 ms MarkObjects: 0.390386 ms  DeleteObjects: 0.217165 ms)
+
+E:/ASU/Thesis/Game/2D/Bricks/Bricks/Win/test_Data/Resources/count
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2868 -> priority: 1 
+  Thread -> id: 3158 -> priority: 1 
